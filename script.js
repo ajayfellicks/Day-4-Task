@@ -349,3 +349,4 @@ function isPalindrome(string) {
   return string === reversedString;
 }
 console.log(findPalindromes(array));
+d
